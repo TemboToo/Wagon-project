@@ -1,0 +1,68 @@
+body {
+	background-color: #F3CD05;
+color: red;
+font-size: 50px;
+font-family: Helvetica;
+margin: 0;
+text-align: center;
+}
+
+#banner {
+background-image: url("https://picsum.photos/200/300/?random");
+background-size: cover;
+padding: 168px;
+color: black;
+text-shadow: 1px 2px 3px white;
+}
+
+h1 {
+	font-family: Gothic;
+	color: red;
+	font-weight: lighter;
+	text-align: center;
+}
+
+#banner h1{
+	color: white;
+}
+
+h2{
+	font-family: Helvetica;
+	color: red;
+	font-weight: lighter;
+	text-align: center;
+}
+
+h3{
+	font-family: Calibri;
+	color: teal;
+	font-weight: bold;
+	text-align: center;
+}
+
+h4{
+	font-family: Calibri;
+	color: red;
+	font-weight: lighter;
+	text-align: right;
+}
+
+h5{
+	font-family: New Times Roman;
+	color: black;
+	font-weight: bold; 
+}
+
+a{ 
+color: blue
+ }
+
+a:hover {
+	color: rgb(700, 700, 700);
+	font-size: 55px;
+}
+
+#footer{ 
+	padding: 70px;
+	background-color: #000080;
+ }
